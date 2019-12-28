@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "639149394775",
-    "firebase_url": "https://flutter-instagram-74a13.firebaseio.com",
-    "project_id": "flutter-instagram-74a13",
-    "storage_bucket": "flutter-instagram-74a13.appspot.com"
+    "project_number": "671531290695",
+    "firebase_url": "https://flutter-instagram-bbc50.firebaseio.com",
+    "project_id": "flutter-instagram-bbc50",
+    "storage_bucket": "flutter-instagram-bbc50.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:639149394775:android:b07b4e5286cf9b0ee98c12",
+        "mobilesdk_app_id": "1:671531290695:android:4e20270c20e3f35ae42162",
         "android_client_info": {
           "package_name": "com.example.instagram"
         }
       },
       "oauth_client": [
         {
-          "client_id": "639149394775-koiasu4406a734a6ccuh9d8ram6pp6g4.apps.googleusercontent.com",
+          "client_id": "671531290695-q4kfiuqf6k2907g8a6t1h7fmr110qvin.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCGnOsnRyLF6kSwaoIYmBxuUI9hoz3vEZo"
+          "current_key": "AIzaSyBmz81vzktYr_QppQSoQV_Iyj_5hPzrvAI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "639149394775-koiasu4406a734a6ccuh9d8ram6pp6g4.apps.googleusercontent.com",
+              "client_id": "671531290695-q4kfiuqf6k2907g8a6t1h7fmr110qvin.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
