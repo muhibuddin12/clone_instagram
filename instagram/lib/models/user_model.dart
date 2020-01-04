@@ -21,7 +21,7 @@ class User {
       name: doc['name'],
       profileImageUrl: doc['profileImageUrl'],
       email: doc['email'],
-      bio: doc['bio'] ?? ''
+      bio: doc['bio'] ?? '',
     );
   }
 }
